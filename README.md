@@ -1,1 +1,1 @@
-# BankMamagement
+# BankManagement
